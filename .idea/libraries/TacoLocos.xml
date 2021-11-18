@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="TacoLocos">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TacoLocos/TacoLocos_DL.zip!/" />
+      <root url="jar://$PROJECT_DIR$/TacoLocos/TacoLocos_DLzip.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
