@@ -8,7 +8,7 @@ services to power this app.
 
 # How to start
 
-To test the API download or clone the project and start it. It will run on port localhost/8080
+To test the API download or clone the project and start it. It will run on localhost/8080
 
 
 # How to use
