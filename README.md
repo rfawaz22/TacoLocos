@@ -27,7 +27,7 @@ This will return  JSON version of the menu
 
 I reccomend using some sort of API testing application, I utilize Insomnia but any will work. 
 
-using localhost/8080/total as the endpoint and inputing the menu items you wish to order will come up with the total order and cost
+using localhost/8080/total as the endpoint and inputing the menu items you wish to order will come up with the total order and cost. The input is an integer value, and will throw and error if a negative value is entered or if an item that is not on the menu is entered. 
 
 request:
 
@@ -59,5 +59,5 @@ I refrenced the below github users projects for my own
 
  - [varsha9](https://github.com/varsha9/TacoLoco)
  - [bpresser123](https://github.com/bpresser123/Taco-Loco)
- - [alis0nc ]( https://github.com/alis0nc/TacoTotalizer)
+ - [domgarr ](https://github.com/domgarr/MenuCostCalculatorTDD )
 
